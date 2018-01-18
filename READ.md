@@ -1,10 +1,3 @@
-### Group members:
-- Luming Tang - 452651
-- Xuechen Tian - 451186
-
-### Our site:
-http://ec2-52-42-183-68.us-west-2.compute.amazonaws.com/~luming/calendar/calendar.php
-
 ### Calendar Descritption:
 - Show current month and year in our calendar. Current day is marked by green. If the mouse is over one day, the color of that day will change to blue.
 - Users can log in or sign up .
